@@ -1,4 +1,6 @@
 ## Amazon SageMaker Generative AI workshop - Build Generative AI applications on SageMaker
+ ⚠️ This workshop has been moved to AWS Sample [gitrepo](https://github.com/aws-samples/generative-ai-workshop-build-a-multifunctional-chatbot-on-sagemaker). For update on the workshop, please go to the above link.
+
 This repository contains code examples for **SageMaker** Generative AI, which is designed to help users build a multi-functional chatbot on Amazon SageMaker. This repo contains two modules: Module 1, build a multi-functional chatbot on SageMaker using open-source Large Language Models (LLMs); Module 2, build [high-accuracy Generative AI application on enterprise data using Amazon Kendra, LangChain, and large language models](https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/).
 
 ### Module 1 - Build a Multi-functional Chatbot on Amazon SageMaker
